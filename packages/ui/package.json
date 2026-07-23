@@ -55,7 +55,6 @@
     "@scena/react-guides": "^0.28.2",
     "antd": "^6.5.0",
     "dompurify": "^3.4.11",
-    "form-render": "^2.5.5",
     "hotkeys-js": "^4.0.4",
     "lucide-react": "^1.21.0",
     "rc-field-form": "^2.7.1",
@@ -73,6 +72,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.3",
     "csstype": "^3.2.3",
+    "form-render": "^2.5.5",
     "vite": "^8.1.0",
     "vite-plugin-css-injected-by-js": "^5.0.1",
     "vite-tsconfig-paths": "^6.1.1"
